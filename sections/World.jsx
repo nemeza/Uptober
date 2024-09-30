@@ -17,7 +17,7 @@ const World = () => (
       <TypingText title="Join the World" textStyles="text-center" />
       <TitleText
         title={<>
-          Start your journey with BranCoin & Enjoy!
+          Start your journey with Uptober & Enjoy!
         </>}
         textStyles={'text-center'}
       />
