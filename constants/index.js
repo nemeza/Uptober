@@ -37,7 +37,7 @@ export const newFeatures = [
     imgUrl: '/phone.png',
     title: 'The dApp',
     subtitle:
-        'Our initial dApp will allow users to purchase virtual land and items within a gamified metaverse world. All purchases and transactions within the dApp will be made using BranCoin',
+        'Our initial dApp will allow users to purchase virtual land and items within a gamified metaverse world. All purchases and transactions within the dApp will be made using Uptober',
   },
   {
     imgUrl: '/angel.png',
