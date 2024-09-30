@@ -12,7 +12,7 @@ export const exploreWorlds = [
   {
     id: 'pixel-3',
     imgUrl: '/pixel3.gif',
-    title: 'Fixed supply of 21 million coins',
+    title: 'Fixed supply of 1 billion coins',
   },
   {
     id: 'pixel-4',
