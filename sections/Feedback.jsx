@@ -23,11 +23,11 @@ const Feedback = () => (
             Brandon Ban
           </h4>
           <p className='mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22px] leading-[16px] text-white'>
-            BranCoin | Founder & Developer
+            Uptober | Founder & Developer
           </p>
         </div>
         <p className='mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white'>
-          “With BranCoin, you can transform the way value is created and exchanged on the internet. The distributed, decentralized nature of cryptocurrency gives the power back to the people - where it belongs.”
+          “With Uptober, you can transform the way value is created and exchanged on the internet. The distributed, decentralized nature of cryptocurrency gives the power back to the people - where it belongs.”
         </p>
       </motion.div>
 
