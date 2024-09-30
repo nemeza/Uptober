@@ -21,16 +21,16 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className='mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white'
       >
-        <span className='font-extrabold text-white'>BranCoin </span>
+        <span className='font-extrabold text-white'>Uptober </span>
         is a new cryptocurrency created by 
         <span className='font-extrabold text-white'> Brandon Ban</span>, 
         a web3 enthusiast building his skills as a web developer.
-        BranCoin aims to enable a 
+        Uptober aims to enable a 
         <span className='font-extrabold text-white'> fairer and more open</span> web3 economy, 
         empowering individuals with 
         <span className='font-extrabold text-white'> control </span> 
         over their digital assets and identities. 
-        Brandon's journey from learner to creator symbolizes the spirit behind BranCoin.
+        Brandon's journey from learner to creator symbolizes the spirit behind Uptober.
       </motion.p>
 
       <motion.img
