@@ -2,7 +2,7 @@ export const exploreWorlds = [
   {
     id: 'pixel-1',
     imgUrl: '/pixel1.gif',
-    title: 'Can be traded using the Ethereum blockchain',
+    title: 'Can be traded using the TON blockchain',
   },
   {
     id: 'pixel-2',
