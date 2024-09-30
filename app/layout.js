@@ -5,15 +5,15 @@ const RootLayout = ({ children }) => (
     <head>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="theme-color" content="#000000" />
-      <meta name="author" content="Brandon Ban Kai Xian" />
-      <meta property="og:site_name" content="Brandon Ban" />
-      <meta property="og:title" content="BranCoin" />
+      <meta name="author" content="Uptober Dev Kris" />
+      <meta property="og:site_name" content="Kris Khan" />
+      <meta property="og:title" content="Uptober" />
       <meta property="og:type" content="website" />
       <meta property="og:image" content="/bcstamp.png" />
       <meta property="og:image:width" content="125" />
       <meta property="og:image:height" content="125" />
       <meta property="og:description" 
-    content=' "Hi there! Just wanted to let you know that this project was created by an undergraduate student who is still learning the ropes when it comes to programming. Feel free to take a look around and check out his work!" ' />
+    content=' "Uptober token for fun" ' />
       <meta property="og:url" content="https://uptober-eight.vercel.app/" />
       <meta property="og:determiner" content="the" />
       <meta property="og:locale" content="ms_MY" />
